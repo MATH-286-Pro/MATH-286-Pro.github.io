@@ -24,10 +24,9 @@ author:
   # Biographic information
   avatar           : "profileme.png" # "profile-my.jpg"
   name             : "Jiajun Hu"
-  # pronouns         : # example: "she/her"  
-  bio              : "Master student at EPFL in mechanical engineering"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "M.S. in mechanical engineering"
+  location         : "Switzerland"
+  employer         : "EPFL"
   uri              : # URL
   email            : "jhu114514@gmail.com" 
 
