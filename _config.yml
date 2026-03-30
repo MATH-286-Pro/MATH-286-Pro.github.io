@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profileme.png" # "profile-my.jpg"
+  avatar           : "photo_crl.png" # "profile-my.jpg"
   name             : "Jiajun Hu"
   bio              : "M.S. in mechanical engineering"
   location         : "Switzerland"
