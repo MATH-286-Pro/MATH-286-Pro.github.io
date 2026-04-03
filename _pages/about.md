@@ -35,22 +35,35 @@ Projects
 </div>
 
 <div style="display: flex; align-items: center; gap: 14px; padding: 10px 12px; border: 1px solid #2f2f2f; border-radius: 10px; max-width: 720px; margin-top: 10px;">
-  <a href="https://github.com/MATH-286-Pro/EPFL-MICRO-502-Aerial-Robotics" target="_blank" rel="noopener noreferrer" style="display: inline-block; line-height: 0;">
-    <img src="{{ '/images/project/Project_Drone.JPG' | relative_url }}" alt="EPFL MICRO-502 aerial robotics project preview thumbnail" style="width: 126px; height: 68px; object-fit: cover; border-radius: 8px; border: 1px solid #444;">
+  <a href="https://github.com/MATH-286-Pro/EPFL-MICRO-502-Aerial-Robotics" 
+    target="_blank" 
+    rel="noopener noreferrer" style="display: inline-block; line-height: 0;">
+    <img src="{{ '/images/project/Project_Drone.JPG' | relative_url }}" 
+    alt="EPFL MICRO-502 aerial robotics project preview thumbnail" 
+    style="width: 126px; height: 68px; object-fit: cover; border-radius: 8px; border: 1px solid #444;">
   </a>
   <div>
     <div style="font-size: 0.9rem; font-weight: 600; line-height: 1.2;">
-      <a href="https://github.com/MATH-286-Pro/EPFL-MICRO-502-Aerial-Robotics" target="_blank" rel="noopener noreferrer">EPFL-MICRO-502-Aerial-Robotics</a>
+      <a href="https://github.com/MATH-286-Pro/EPFL-MICRO-502-Aerial-Robotics" 
+         target="_blank" 
+         rel="noopener noreferrer">EPFL-MICRO-502-Aerial-Robotics
+      </a>
     </div>
-    <div style="opacity: 0.9;">Aerial Robotics Project</div>
-    <div><em>Project Repository Preview, 2025</em> <a href="https://github.com/MATH-286-Pro/EPFL-MICRO-502-Aerial-Robotics" target="_blank" rel="noopener noreferrer">[GitHub]</a></div>
+    <div style="opacity: 0.9;">Aerial Robot Project</div>
+    <div><em>Project Repository Preview, 2025</em> <a href="https://github.com/MATH-286-Pro/EPFL-MICRO-502-Aerial-Robotics" 
+      target="_blank" 
+      rel="noopener noreferrer">[GitHub]</a></div>
   </div>
 </div>
 
-
-<div style="display: flex; align-items: center; gap: 14px; padding: 10px 12px; border: 1px solid #2f2f2f; border-radius: 10px; max-width: 720px;">
-  <a href="https://github.com/MATH-286-Pro/ZJUI-Balance-Infantry-Ver-1.0/blob/main/README.en.md" target="_blank" rel="noopener noreferrer" style="display: inline-block; line-height: 0;">
-    <img src="{{ '/images/project/Project_Wheel_Bot.png' | relative_url }}" alt="ZJUI Balance Infantry project preview thumbnail" style="width: 126px; height: 68px; object-fit: cover; border-radius: 8px; border: 1px solid #444;">
+<div style="display: flex; align-items: center; gap: 14px; padding: 10px 12px; border: 1px solid #2f2f2f; border-radius: 10px; max-width: 720px; margin-top: 10px;">
+  <a href="https://github.com/MATH-286-Pro/ZJUI-Balance-Infantry-Ver-1.0/blob/main/README.en.md" 
+    target="_blank" 
+    rel="noopener noreferrer" 
+    style="display: inline-block; line-height: 0;">
+    <img src="{{ '/images/project/Project_Wheel_Bot.png' | relative_url }}" 
+    alt="ZJUI Balance Infantry project preview thumbnail" 
+    style="width: 126px; height: 68px; object-fit: cover; border-radius: 8px; border: 1px solid #444;">
   </a>
   <div>
     <div style="font-size: 0.9rem; font-weight: 600; line-height: 1.2;">
@@ -58,6 +71,26 @@ Projects
     </div>
     <div style="opacity: 0.9;">Wheel-Legged Robot Project</div>
     <div><em>Project Documentation Preview, 2024</em> <a href="https://github.com/MATH-286-Pro/ZJUI-Balance-Infantry-Ver-1.0/blob/main/README.en.md" target="_blank" rel="noopener noreferrer">[README.en]</a></div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 14px; padding: 10px 12px; border: 1px solid #2f2f2f; border-radius: 10px; max-width: 720px; margin-top: 10px;">
+  <a href="https://youtu.be/KPv37gelae0"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="display: inline-block; line-height: 0;">
+    <img src="{{ '/images/project/Project_Printer.png' | relative_url }}"
+    alt="3D printer project preview thumbnail"
+    style="width: 126px; height: 68px; object-fit: cover; border-radius: 8px; border: 1px solid #444;">
+  </a>
+  <div>
+    <div style="font-size: 0.9rem; font-weight: 600; line-height: 1.2;">
+      <a href="https://youtu.be/KPv37gelae0" 
+        target="_blank" 
+        rel="noopener noreferrer">3D Printer Project</a>
+    </div>
+    <div style="opacity: 0.9;">3D Printer I built based on Voron 0.1</div>
+    <div><em>Project Video Preview, 2022</em> <a href="https://youtu.be/KPv37gelae0" target="_blank" rel="noopener noreferrer">[YouTube]</a></div>
   </div>
 </div>
 
