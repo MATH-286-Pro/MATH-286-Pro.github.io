@@ -22,6 +22,19 @@ Projects
 ======
 
 <div style="display: flex; align-items: center; gap: 14px; padding: 10px 12px; border: 1px solid #2f2f2f; border-radius: 10px; max-width: 720px; margin-top: 10px;">
+  <a href="https://github.com/MATH-286-Pro/polaris-umi" target="_blank" rel="noopener noreferrer" style="display: inline-block; line-height: 0;">
+    <img src="{{ '/images/project/Project_PolaRiS_UMI.png' | relative_url }}" alt="umi on legs ++ project preview thumbnail" style="width: 126px; height: 68px; object-fit: cover; border-radius: 8px; border: 1px solid #444;">
+  </a>
+  <div>
+    <div style="font-size: 0.9rem; font-weight: 600; line-height: 1.2;">
+      <a href="https://github.com/MATH-286-Pro/polaris-umi" target="_blank" rel="noopener noreferrer">umi on legs ++</a>
+    </div>
+    <div style="opacity: 0.9;">UMI Pick-and-Place Policy on a Legged Robot</div>
+    <div><em>Project Repository Preview, 2026</em> <a href="https://github.com/MATH-286-Pro/polaris-umi" target="_blank" rel="noopener noreferrer">[GitHub]</a></div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 14px; padding: 10px 12px; border: 1px solid #2f2f2f; border-radius: 10px; max-width: 720px; margin-top: 10px;">
   <a href="https://github.com/MATH-286-Pro/EPFL-MICRO-507-Legged-Robot-Project-2" target="_blank" rel="noopener noreferrer" style="display: inline-block; line-height: 0;">
     <img src="{{ '/images/project/Project_Atlas.png' | relative_url }}" alt="EPFL MICRO-507 legged robot project preview thumbnail" style="width: 126px; height: 68px; object-fit: cover; border-radius: 8px; border: 1px solid #444;">
   </a>
